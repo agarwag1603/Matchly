@@ -59,7 +59,7 @@ AZURE_AI_SEARCH_INDEX_NAME_JD=jd-index
 
 ![alt text](Images/Architecture.png)
 
-### <span style="color:red"> Note: Delete your resources from Azure once work is done </span>
+<b><span style="color:red"> Note: Delete your resources from Azure once work is done </span>
 
 
 
